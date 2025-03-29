@@ -13,7 +13,7 @@ The **Financial Freedom Tracker** is a web-based finance tool built with **Strea
 🔗 https://financial-freedom-calculator-sscex6qxz9d2pes4wqmfyl.streamlit.app/
 
 ## 🎥 Demo Video
-📺 [Watch the Demo](#) (Upload a demo video and add the link here)
+📺 https://drive.google.com/file/d/1lq0scF4l2UdCxMTGQORWN5lN914XBrnw/view?usp=sharing
 
 ## 🏗️ Installation Guide
 To run the application locally, follow these steps:
