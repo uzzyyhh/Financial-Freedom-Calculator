@@ -10,7 +10,7 @@ The **Financial Freedom Tracker** is a web-based finance tool built with **Strea
 - **Analyze Investment Portfolio** – Upload a CSV file and gain insights into investment performance.
 
 ## 🌐 Live Deployment
-🔗 [Deployment Link](#) (Add your Streamlit deployment link here)
+🔗 https://financial-freedom-calculator-sscex6qxz9d2pes4wqmfyl.streamlit.app/
 
 ## 🎥 Demo Video
 📺 [Watch the Demo](#) (Upload a demo video and add the link here)
