@@ -1,8 +1,8 @@
 # 📊 Financial Freedom Tracker
 
 ## 📌 Course Information
-- **Course Name**: [Your Course Name]
-- **Instructor**: [Instructor Name]
+- **Course Name**: AF3005 - Programming for Finance 
+- **Instructor**: Dr. Usama Arshad
 
 ## 🚀 Overview
 The **Financial Freedom Tracker** is a web-based finance tool built with **Streamlit**. It allows users to:
@@ -20,7 +20,7 @@ To run the application locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Financial-Freedom-Calculator.git
+   git clone https://github.com/uzzyyhh/Financial-Freedom-Tracker.git
 Navigate into the project folder:
 cd Financial-Freedom-Tracker
 
