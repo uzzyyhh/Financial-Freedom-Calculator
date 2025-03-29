@@ -39,8 +39,9 @@ streamlit run app.py
 📁 Financial-Freedom-Tracker
 │── 📜 README.md
 │── 📜 requirements.txt
-│── 🏠 Financial Freedom Calculator.py  (Single-page Streamlit app)
+│── 🏠 Financial Freedom Calculator.py (Single-page Streamlit app)
 │── 📂 assets/ (Optional for images/videos)
+
 
 📝 CSV File Format for Portfolio Analysis
 Ensure your CSV file includes the following columns:
