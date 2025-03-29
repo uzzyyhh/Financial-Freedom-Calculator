@@ -21,41 +21,41 @@ To run the application locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/uzzyyhh/Financial-Freedom-Tracker.git
-Navigate into the project folder:
+## Navigate into the project folder:
 cd Financial-Freedom-Tracker
 
-(Optional) Create and activate a virtual environment:
+## (Optional) Create and activate a virtual environment:
 python -m venv env
 source env/bin/activate  # On Windows use: env\Scripts\activate
 
-Install dependencies:
+## Install dependencies:
 pip install -r requirements.txt
 
-Run the Streamlit app:
-streamlit run app.py
+## Run the Streamlit app:
+streamlit run Financial Freedom Calculator.py
 
 
-📂 File Structure
-📁 Financial-Freedom-Tracker
-│── 📜 README.md
-│── 📜 requirements.txt
-│── 🏠 Financial Freedom Calculator.py (Single-page Streamlit app)
-│── 📂 assets/ (Optional for images/videos)
+## 📂 File Structure
+## 📁 Financial-Freedom-Tracker
+## │── 📜 README.md
+## │── 📜 requirements.txt
+## │── 🏠 Financial Freedom Calculator.py (Single-page Streamlit app)
+## │── 📂 assets/ (Optional for images/videos)
 
 
-📝 CSV File Format for Portfolio Analysis
-Ensure your CSV file includes the following columns:
+## 📝 CSV File Format for Portfolio Analysis
+## Ensure your CSV file includes the following columns:
 
-Investment Name	Amount Invested ($)	Current Value ($)
-Stock A	5000	5500
-Stock B	10000	12000
+## Investment Name	Amount Invested ($)	Current Value ($)
+## Stock A	5000	5500
+## Stock B	10000	12000
 
-🤝 Contribution 
-Fork the repository.
-Create a new branch: git checkout -b feature-branch
-Commit changes: git commit -m "Add new feature"
-Push to GitHub: git push origin feature-branch
-Submit a pull request.
+## 🤝 Contribution 
+## Fork the repository.
+## Create a new branch: git checkout -b feature-branch
+## Commit changes: git commit -m "Add new feature"
+## Push to GitHub: git push origin feature-branch
+## Submit a pull request.
 
-🛡️ License
-This project is licensed under the MIT License.
+## 🛡️ License
+## This project is licensed under the MIT License.
