@@ -36,26 +36,26 @@ streamlit run Financial Freedom Calculator.py
 
 
 ## 📂 File Structure
-## 📁 Financial-Freedom-Tracker
-## │── 📜 README.md
-## │── 📜 requirements.txt
-## │── 🏠 Financial Freedom Calculator.py (Single-page Streamlit app)
-## │── 📂 assets/ (Optional for images/videos)
+ 📁 Financial-Freedom-Tracker
+│── 📜 README.md
+│── 📜 requirements.txt
+│── 🏠 Financial Freedom Calculator.py (Single-page Streamlit app)
+│── 📂 assets/ (Optional for images/videos)
 
 
 ## 📝 CSV File Format for Portfolio Analysis
-## Ensure your CSV file includes the following columns:
+Ensure your CSV file includes the following columns:
 
-## Investment Name	Amount Invested ($)	Current Value ($)
-## Stock A	5000	5500
-## Stock B	10000	12000
+ Investment Name	Amount Invested ($)	Current Value ($)
+ Stock A	5000	5500
+ Stock B	10000	12000
 
 ## 🤝 Contribution 
-## Fork the repository.
-## Create a new branch: git checkout -b feature-branch
-## Commit changes: git commit -m "Add new feature"
-## Push to GitHub: git push origin feature-branch
-## Submit a pull request.
+ Fork the repository.
+ Create a new branch: git checkout -b feature-branch
+ Commit changes: git commit -m "Add new feature"
+ Push to GitHub: git push origin feature-branch
+ Submit a pull request.
 
 ## 🛡️ License
-## This project is licensed under the MIT License.
+ This project is licensed under the MIT License.
