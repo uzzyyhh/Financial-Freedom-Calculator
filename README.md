@@ -20,7 +20,7 @@ To run the application locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Financial-Freedom-Tracker.git
+   git clone https://github.com/yourusername/Financial-Freedom-Calculator.git
 Navigate into the project folder:
 cd Financial-Freedom-Tracker
 
